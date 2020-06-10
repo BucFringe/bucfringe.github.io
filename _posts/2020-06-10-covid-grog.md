@@ -16,6 +16,7 @@ Recipe used:
 - 5 litres of tap water (43 Torc Aavenue)
 - 20 raisins
 - 1/2 Mangrove Jacks M05 - Honey Wine Yeast
+- Backsweetend with 560g of Paynes blossom honey in secondary
 
 Expected ABV % - 14
 
