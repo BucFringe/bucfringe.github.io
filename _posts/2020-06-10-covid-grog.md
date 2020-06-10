@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Covid Grog
 tag: mead
 permalink: /covid-grog/
 ---
