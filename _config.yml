@@ -1,6 +1,6 @@
 # Site settings
 title: Drunken Goblin Meadery
-description: Meadery est.2020
+description: Local Ammington Meadery (est 2020)
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -49,7 +49,7 @@ branch: #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
 production_url: https://www.dl33t.co.uk/
-source_url: https://github.com/bucfringe/bucfringe.github.io #source repository url
+source_url: #source repository url
 
 exclude:
   - README.md
