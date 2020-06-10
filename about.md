@@ -1,21 +1,12 @@
 ---
 layout: page
-title: About Emerald
+title: About the brewery
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+## About Us
 
-![Emerald](img/Emerald01.png "Emerald")
+Well what can be said about how the brewery came about? Well one day Mr Goblin decided the pandemic was a good place to start to learn how to make mead. Does he like mead I hear you say? Well he didn’t know until the first grog was brewed which is why the Covid grog is a simple and sweet blend. After joining a couple of blogs and watching a few youtube videos Drunken Goblin Meadery was born.
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+After waiting a couple of pay days and being stuck in the home office he brought a lot of equipment. Let’s just put it like this, I’m surprised Royal Mail will still deliver to the base. I wish it was as easy as it sounds, he drove Mrs Goblin mad with what do you think of this honey or if I find a close home of bees will you drive to get it? As Mr Goblin was not leaving the house. Mrs Goblin started to join in with this experiment to occupy Mr Goblin but ended up getting just as involved.
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+At Drunken Goblin Meadery there is a whole list of recipes we are waiting to try. But every step has done be done accurately like a science experiment. After all no one wants mead that has turned into vinegar (Mr Goblin’s biggest anxiety). So please bear with us as we are a tiny brewery so our new Grog’s will take time to brew.
