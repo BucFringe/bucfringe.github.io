@@ -3,6 +3,7 @@ title: Covid Grog
 tag: mead
 permalink: /covid-grog/
 date: "2020-06-10 18:00:00 +0100"
+description: This is Drunken Goblin Meaderys first brew ...
 ---
 
 This grog has been perfectly blended in Tamworth, Staffordshire in England during the covid-19 pandemic in 2020 when the country went into lockdown. This is the first grog brewed by Drunken Goblin Meadery. It has been made with Payne’s Blossom honey which is blended in West Sussex, England and has been taste tested at every stage by the founder himself.
