@@ -9,6 +9,7 @@ description: This is Drunken Goblin Meaderys first brew ...
 This grog has been perfectly blended in Tamworth, Staffordshire in England during the covid-19 pandemic in 2020 when the country went into lockdown. This is the first grog brewed by Drunken Goblin Meadery. It has been made with Payne’s Blossom honey which is blended in West Sussex, England and has been taste tested at every stage by the founder himself.
 
 Date started - 30/04/2020
+Expected ABV % - 14
 
 Recipe used:
 
@@ -17,8 +18,6 @@ Recipe used:
 - 20 raisins
 - 1/2 Mangrove Jacks M05 - Honey Wine Yeast
 - Backsweetend with 510g of Paynes blossom honey in secondary
-
-Expected ABV % - 14
 
 30/04/2020 - Yeast rehydration didn't seem to do anything. Don't know if the water was too cold or too hot, or not left long enough will try with a second batch if this brew doesn't start fermenting.
 
